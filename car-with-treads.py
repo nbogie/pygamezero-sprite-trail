@@ -1,10 +1,6 @@
 import math
 import random
 
-# Credits:
-# Uses assets from "Lap Rusher Assets" by Virgate Designs
-#   https://opengameart.org/content/lap-rusher-assets
-
 treads = Actor('cartrail')
 car = Actor('car')
 carpark = Actor('carpark2')
