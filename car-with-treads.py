@@ -99,7 +99,6 @@ def draw():
         treads.angle = angle + 90
 
         treads.draw()
-
     for pu in powerups:
         pu.draw()
 
